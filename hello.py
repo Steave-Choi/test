@@ -1,5 +1,5 @@
 print("Hello, Git!!")
 
-print("버전관리 Git, Github이해와 활용")
+print("Hello, Github")
 
-print("충돌을 만들어 봅시다!!!!")
+print("test1에서 작업합니다!!!")
